@@ -287,7 +287,7 @@ void load_vectors( ifstream& file1, ifstream& file2, ifstream& file3 )
             mC = atoi( mc );
             MC.push_back( mC );
         } 
-    } //stores username, purchase date, and purchase amount info into vectors
+    } //stores username, message date, and message amount info into vectors
     
     file3.close();
 
