@@ -9,4 +9,4 @@ The format for purchases.txt is as follows: 'userid','purchase date','amount'.
 
 The format for messages.txt is as follows: 'userid','message date','message count'.
 
-The submitted code essentially converts the date from a year-month-day format to a numeric on on the scale of 1 - 365 (1-366 for a leap year).
+The submitted code essentially converts the date from a year-month-day format to a numeric one on the scale of 1 - 365 (1-366 for a leap year).
