@@ -1,7 +1,3 @@
-/* Sailthru interview question (submitted via email):
-
-    Philip Stathos */
-
 #include <iostream>
 #include <fstream>
 #include <stdlib.h>
